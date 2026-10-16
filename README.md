@@ -1,4 +1,4 @@
-TerraTech Legion Survive Save/Continue v0.5.8
+TerraTech Legion Survive Save/Continue v0.5.9
 
 An unofficial Windows mod that adds persistent save and load functionality to Survive mode in TerraTech Legion.
 
